@@ -20,8 +20,8 @@
       ]
     },
     {
-      "type": "Text",
-      "data": "Hello 4"
+      "type": "NetworkImage",
+      "src": "https://unsplash.com/photos/my1uetu3h_8/download?force=true"
     }
   ]
 }
