@@ -1,0 +1,37 @@
+{
+  "type": "column",
+  "children": [
+    {
+      "type": "row",
+      "flex": 3,
+      "children": [
+        {
+          "type": "spacer",
+          "flex": 1
+        },
+        {
+          "type": "slider",
+          "id": "dimmm",
+          "flex": 1,
+          "min": 0,
+          "divisions": 100,
+          "max": 100,
+          "value": 79
+        },
+        {
+          "type": "spacer",
+          "flex": 1
+        }
+      ]
+    },
+    {
+      "type": "slider",
+      "id": "dim",
+      "flex": 1,
+      "min": 0,
+      "divisions": 100,
+      "max": 100,
+      "value": 50
+    }
+  ]
+}
