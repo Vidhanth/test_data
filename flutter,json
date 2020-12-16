@@ -1,37 +1,27 @@
 {
-  "type": "column",
+  "type": "Column",
   "children": [
     {
-      "type": "row",
+      "type": "Row",
       "flex": 3,
       "children": [
         {
-          "type": "spacer",
-          "flex": 1
+          "type": "Text",
+          "data": "Hello"
         },
         {
-          "type": "slider",
-          "id": "dimmm",
-          "flex": 1,
-          "min": 0,
-          "divisions": 100,
-          "max": 100,
-          "value": 79
+          "type": "Text",
+          "data": "Hello 2"
         },
         {
-          "type": "spacer",
-          "flex": 1
+          "type": "Text",
+          "data": "Hello 3"
         }
       ]
     },
     {
-      "type": "slider",
-      "id": "dim",
-      "flex": 1,
-      "min": 0,
-      "divisions": 100,
-      "max": 100,
-      "value": 50
+      "type": "Text",
+      "data": "Hello 4"
     }
   ]
 }
