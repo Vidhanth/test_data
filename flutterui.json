@@ -3,6 +3,7 @@
   "children": [
     {
       "type": "Row",
+      "mainaxisalignment": "spaceEvenly",
       "flex": 3,
       "children": [
         {
