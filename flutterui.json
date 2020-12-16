@@ -1,0 +1,29 @@
+{
+  "type": "Column",
+  "children": [
+    {
+      "type": "Row",
+      "flex": 3,
+      "children": [
+        {
+          "type": "Text",
+          "data": "Hello"
+        },
+        {
+          "type": "Text",
+          "data": "Hello 2"
+        },
+        {
+          "type": "Text",
+          "data": "Hello 3"
+        }
+      ]
+    },
+    {
+      "type": "NetworkImage",
+      "boxfit": "contain",
+      "height": 300,
+      "src": "https://unsplash.com/photos/my1uetu3h_8/download?force=true"
+    }
+  ]
+}
