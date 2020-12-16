@@ -22,7 +22,7 @@
     {
       "type": "NetworkImage",
       "boxfit": "contain",
-      "height": 300,
+      "height": 250,
       "src": "https://unsplash.com/photos/my1uetu3h_8/download?force=true"
     }
   ]
